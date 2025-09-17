@@ -12,6 +12,10 @@ let name = 'rohit';
 
 let roll_no = 60;
 
-console.log(`My name is ${name} and roll no is ${roll_no}`);
+//console.log(`My name is ${name} and roll no is ${roll_no}`);
+
+let myDate = new Date();
+console.log(myDate.toString());
+
 
 
